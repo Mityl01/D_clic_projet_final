@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # projetfinal
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# D_clic_projet_final
+projet final dans le cadre de la formation Développement mobil, niveau intermédiaire
+>>>>>>> 51b2bf168662bce3637355edb64cf8cbfab825ec
